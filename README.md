@@ -1,3 +1,3 @@
-# roomio
+# Roomio
 
 Soon to follow.
